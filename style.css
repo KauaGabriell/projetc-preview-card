@@ -68,7 +68,7 @@ body{
     color: var(--DarkBluegrayrish);
     display: flex;
     align-self: flex-start;
-    margin: 25px 10px 10px 20px;
+    margin: 25px 10px 15px 20px;
     font-weight: 500;
     letter-spacing: 10px;
     font-size: medium;
@@ -122,6 +122,5 @@ body{
     background-color: hsl(159, 36%, 17%);
     cursor: pointer;
 }
-
 
 
